@@ -4,14 +4,14 @@
     "slug": "studyspark",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./icon.js"
     "userInterfaceStyle": "dark",
 
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#0A0A0F"
-    },
+  "backgroundColor": "#0A0A0F",
+  "image": "./splash.js",
+  "resizeMode": "contain"
+}
 
     "assetBundlePatterns": [
       "**/*"
